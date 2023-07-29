@@ -3,7 +3,7 @@ Cloudflare offers free DDoS protection although enabling a ruleset will increase
 
 ## Actions:
 
-* Skip (Whitelist)
-* Block (Basic)
-* Manage Challenge (Threat)
-* Skip (Log Bypassed)
+* Whitelist: Skip
+* Basic: Block
+* Threat: Manage Challenge
+* Log: Skip
