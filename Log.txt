@@ -1,0 +1,1 @@
+(not ip.geoip.asnum in {1})
